@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFKSReposrtService", "MFKSReposrtService\MFKSReposrtService.csproj", "{896B3FA5-3B2B-4E66-B63F-1594A74E78FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckDapper", "CheckDapper\CheckDapper.csproj", "{A22D82AF-3211-44BC-8B9D-F416A728080A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896B3FA5-3B2B-4E66-B63F-1594A74E78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896B3FA5-3B2B-4E66-B63F-1594A74E78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896B3FA5-3B2B-4E66-B63F-1594A74E78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896B3FA5-3B2B-4E66-B63F-1594A74E78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22D82AF-3211-44BC-8B9D-F416A728080A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22D82AF-3211-44BC-8B9D-F416A728080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22D82AF-3211-44BC-8B9D-F416A728080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22D82AF-3211-44BC-8B9D-F416A728080A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB982E8B-B73C-441C-8852-99B2983E2700}
+	EndGlobalSection
+EndGlobal
